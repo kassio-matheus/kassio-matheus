@@ -28,7 +28,7 @@ kassio@ufs:~$ whoami
 
 <br/>
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stacks & Ferramentas
 
 <div align="center">
 
@@ -68,7 +68,7 @@ kassio@ufs:~$ whoami
 
 <br/>
 
-## 🐍 Minha atividade recente
+## 🐍 Atividades recentes
 
 <div align="center">
 
