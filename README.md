@@ -62,20 +62,7 @@ kassio@ufs:~$ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kassio-matheus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kassio-matheus&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassio-matheus&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kassio-matheus&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
