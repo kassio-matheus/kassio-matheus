@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Kassio%20Matheus&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Inovando%20com%20Tecnologia%20%26%20Intelig%C3%AAncia%20Artificial&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/kassio-matheus">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+UFS;%F0%9F%A4%96+Especialista+em+Automa%C3%A7%C3%A3o+WhatsApp+Business;%E2%9A%A1+Integra%C3%A7%C3%B5es+Low-Code+%7C+N8N+%2F+Zapier+%2F+Make;%F0%9F%A7%A0+Focado+em+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
@@ -26,10 +25,6 @@ kassio@ufs:~$ whoami
 > 🤖 Especialista em **automações no WhatsApp Business** (BotConversa, ManyChat, Wati.io)
 >
 > ⚡ Construo **integrações low-code** que conectam sistemas e automatizam processos (N8N, Zapier, Make.com)
->
-> 🚀 Meu objetivo: me tornar um **inovador tecnológico**, criando soluções inteligentes com foco em IA
->
-> 💬 Sempre aberto a trocar ideias sobre automação, IA e produto
 
 <br/>
 
@@ -97,10 +92,6 @@ kassio@ufs:~$ whoami
 </picture>
 
 </div>
-
-> ⚠️ Essa cobrinha só aparece depois de ativar o GitHub Action no repositório especial `kassio-matheus/kassio-matheus`. Veja o passo a passo enviado junto com este arquivo.
-
-<br/>
 
 ## 📫 Vamos conversar?
 
